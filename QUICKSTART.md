@@ -276,4 +276,4 @@ If you encounter issues:
 
 ---
 
-**Happy forecasting!** 🎯
+**Happy forecasting!** 
